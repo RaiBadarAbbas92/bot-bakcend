@@ -1,0 +1,232 @@
+	
+Personal Information:
+Name: Muhammad Zain Attiq,
+Gender: Male,
+Formal Education: Fsc
+Father Name: Muhammad Zubair,
+Fahter Occupation: Private Job 
+Father Qualification: MBA Finace,
+Phone no: 03271510305,
+Date of birth: 12 September 2005,
+Birthday: 12 of September,
+Age: 19,
+Height: 5.76,
+Weight: 54 Kg,
+Address: Faisalabad,
+Nationality: Pakistan,
+Languages: English, Urdu, Punjabi,
+Married: Not yet, getting on 31 April,
+Religion: Islam,
+Sect: Muslim
+Email: zainatteeq@gmail.com ,
+Linkedin profile: https://www.linkedin.com/in/muhammadzainattiq/ ,
+Github : https://github.com/Muhammadzainattiq ,
+Facebook: https://www.facebook.com/profile.php?id=100022283537125,
+Caste: Jutt,
+Hobbies: Cricket, Football, Cycling, Poetry Writing and Reading , Book-Reading
+Instagram: I don’t use it. Children use Insta. Men use LinkedIn,
+SnapChat:: I don’t use it. Children use Snap. Men use LinkedIn,
+Favourite Color: Black and White,
+Favourite Books: Like Non-Fiction: Quran, Man search of meaning by Victor Frankl, Atomic Habits by James Clear, The Alchemist by Paul Coelho, The reconstruction of religious thought in Islam,  Peer-e-Kamil by Umera Ahmed
+Favourite Car: Toy Car,
+Favourite Sports: Cricket, Badminton  and Football,
+Favourite Food: Pakistani Food and Home Food. Likes  Mutton karahi and Dall Chawal,
+Favourite Music: Classical, NFAK
+Favourite Day Time: 5 a.m Morning,
+Favourite Dress: Trousers & Shirts,
+Favourite City: Faisalabad,
+Favourite Country: Pakistan,
+Favourite Place: Home,
+Favourite Fruit: Mango,
+Favourite Vegetable: Bitter Gourd and Cauliflower,
+Favourite Perfume: Shumukh,
+Waking up Time: Somewhere around 5 a.m.
+Sleeping Time: Somewhere around 11 p.m.
+Personality Type: Intellectual Introvert,
+Education Level: Fsc Passed
+Educational Degree: Fsc Pre-Engineering
+Future Aspirations/Career Goals: Own AI Product, A big Tech Startup, Generative AI Engineer. 
+Current Job Title: Student,
+Future Plans: They are secret
+Favourite programming language: Python
+Family: Mother and Father alived + 2 sisters and 2 brothers and I am at 2nd .
+Siblings no: 2nd
+Phobias/Fears: Atychiphobia, Mysophobia, Zoophobia
+Mobile Phone: Infinix hot 30,
+Laptop: Dell Latitude 5490
+Addictions: Food Addiction, Smartphone Addiction, Work Addiction, Code Addiction, Exercise Addiction
+Complexes : Hero Complex, Obsession Complex
+Lifestyle: Workaholic  lifestyle, Family-Oriented Lifestyle, Health-Conscious Lifestyle, Conservative Lifestyle, Balanced Lifestyle
+Life Motto: “Create your own legacy, No one’s story is worth following.” 
+University: He  didn’t went to any University. College was my last formal Education. Learning Cloud Applied Generative AI Engineering at PIAIC and Working on my skills with Online Courses.
+Institutions he went to: Ghazali Pubilc high School Gojra, Dar-e-Arqam School Gojra, City High School Haleema Campus Faisalabad, Islamia College Faisalabad, Pias Academy Faisalabad, PIAIC
+
+Introduction/ Who he is?:
+Zain’s full name is Muhammad Zain Attiq. Lives in Faisalabad, Pakistan. He is going to be a Cloud Applied Generative AI Engineer and still learning and working on his skills. He has skills in the field of Agentic AI, Generative AI, Discriminative AI, Microservices API Development, Cloud Computing, Machine Learning, Deep Learning, FastAPI, LangChain, LangGraph, CrewAI and Data Science. Currently working from home and learning Cloud Applied Generative AI Engineering and Agentic AI & Robotics at PIAIC. Also doing several other Online Courses from internet resources. He wants to do something which no one has done before. Wants to craft his own story in his own style and wants to make a difference. His life motto is: “Create your own legacy, No one’s story is worth following.”
+Education:
+Matric: 	                 City High School, Fasialabad		
+FSc Pre-Eng:               Islamia College, Faisalabad	                       
+Cloud Applied	          	              PIAIC 
+Gen AI Engineering 
+Technical Skills:
+Python
+FastAPI
+Backend API Development
+Cloud Native Development using Linux, Docker, Docker Compose and dev containers 
+LangChain
+SQL Database Designing and Modeling
+Microservices and Event-driven Architecture designing
+Generative AI
+Prompt Engineering
+AI based API’s Development
+LLM’s Integration
+Custom GPTs , GPT Actions and Custom Assistants
+Chatbot Development
+Zapier Automations
+Machine Learning using Scikit-learn, Pandas, NumPy, matplotlib, Seaborn, Plotly and NLTK
+Deep Learning using TensorFlow, Keras and PyTorch
+Git and Github
+Streamlit AI Apps Prototyping
+HTML, CSS, TypeScript and NextJS
+Degrees/Certifications/Courses:
+FSc Pre-Engineering: 
+      Certificate Link
+Data Science with Python from Simplilearn
+      Certificate Link
+AI with Irfan Malik from Xeven Skills
+     Certificate Link
+Git and Gihub from Great Learning
+     Certificate Link
+Basic Python HackerRank
+     Certificate Link
+Basic JavaScript HackerRank
+     Certificate Link
+Problem Solving HackerRank
+     Certificate Link
+SQL HackerRank
+     Certificate Link
+Typing Speed @ typing.com
+     Certificate Link
+Communication and Soft skills from DigiSkills.pk
+     Certificate Link
+Freelancing from DigiSkills.pk
+     Certificate Link
+ChatGPT&Zapier: Agentic AI for everyone by Jules White from Coursera
+     Certification Link
+OpenAI GPTs: Create Custom AI Assistants by Jules White  from Coursera
+      Certification Link
+Cloud Applied Generative AI Engineering from PIAIC
+Python from Code with Harry
+CS50 from Harward University
+AI for everyone from deeplearning.ai
+ChatGPT Prompt Engineering for developers from deeplearning.ai
+OpenSource Model with Hugging Face from deeplearning.ai
+LangChain chat with your data from deeplearning.ai
+Azure Fundamentals from Microsoft Learn
+Intermediate Machine Learning from Kaggle
+Cloud Native Microservices API Development from PIAIC
+LangChain from Krish Naik from Youtube and documentation
+ 
+Projects:
+HeadlineAI
+Application Link  
+Zain Online Mart 
+Project Link:  https://github.com/Muhammadzainattiq/Online-Mart-Project
+Video Presentation:       https://drive.google.com/file/d/1kXJ0rtDwO8b1SN_a1NGVMVSM5bFrI09y/view?usp=drive_link
+Custom Todo Assistant GPT
+Project Link: https://github.com/Muhammadzainattiq/todo_app_full 
+Video Presentation:  https://drive.google.com/file/d/14xFfpIELlUSr_VrscuKSm1kpdcmAHjSk/view?usp=drive_link
+Gemini RAG Chat with PDF
+Project Link: https://chatwithpdfgemini.streamlit.app/	      
+Video Presentation: https://drive.google.com/file/d/1uupFI0B4o2X5Q1a_Igrp9lP3NpmIXpng/view?usp=drive_link
+Web Article Summarizer
+Project Link:   https://web-article-summarizer.streamlit.app/       
+Video Presentation: https://drive.google.com/file/d/1lzFoR3LjvOjINf4-2Xbze0N-af4ZUoNd/view?usp=drive_link
+Salary Prediction ML Model 
+Project Link: https://github.com/Muhammadzainattiq/Salary-Prediction-Project
+World Cup 2024  Exploratory Data Analysis
+Project Link: https://www.linkedin.com/feed/update/urn:li:activity:7151954008453083136/
+Fashion MNIST DL Model Development using TensorFlow
+Project Link: https://github.com/Muhammadzainattiq/FNN_Fashion_Mnist_dataset
+USA Housing EDA, Model Training and Evaluation
+Project Link: https://github.com/Muhammadzainattiq/USA_Housing_Project
+Titanic Housing EDA, Model Training and Evaluation
+Project Link: https://github.com/Muhammadzainattiq/Titanic-EDA-Project
+AI Image To Story
+Project Link: https://ai-image-to-story.streamlit.app/
+AI Error Solver
+Project Link: https://ai-error-solver.streamlit.app/
+Gemini Talk with Images
+Project Link: https://gemini-vision-bot.streamlit.app/	
+ Number Guessing Game
+Project Link: https://github.com/Muhammadzainattiq/JavaScript-Projects	          
+Video Presentation: https://drive.google.com/file/d/1xa1rTDAjoO2jnLe-JjDsjzjLnCvrBDVI/view?usp=drive_link
+Youtube Video Summarizer
+Project Link: https://youtube-video-summarize.streamlit.app/     
+Video Presentation: https://www.linkedin.com/feed/update/urn:li:activity:7187698183156752384/
+AI Student Examiner
+Project Link: https://student-theoretical-examiner-app.streamlit.app/
+Video Presentation:                       https://www.linkedin.com/feed/update/urn:li:activity:7180129571034316801/
+AI Invoice Extractor
+Project Link: https://invoice-extractor-gemini.streamlit.app/
+AI Powered Dynamic Quiz 
+Project Link: https://dynamic-quiz-openai.streamlit.app/
+Video Presentation: https://drive.google.com/file/d/1rPo2YWcIAffo4h4Xv5ekg-MC1Qy8VdWn/view?usp=drive_link
+Blog Post Generator
+Project Link: https://blog-post-generator-openai.streamlit.app/
+Video Presentation: https://drive.google.com/file/d/1TcGpyE--9-WM0hN-qW_SXmpAnEysCe4r/view?usp=drive_link
+Gift Suggestion LLM
+Project Link: https://ai-gift-suggestions.streamlit.app/
+Custom QA Gemini Chatbot with history
+Project Link: https://chatbot-gemini-api.streamlit.app/
+Video Presentation: https://drive.google.com/file/d/1zUWwbsHHDpbMEkCnjZ-eL4hSUAg_wb5S/view?usp=drive_link
+Youtube Video to Article
+Project Link: https://video-to-article.streamlit.app/	
+Video Presentation: https://drive.google.com/file/d/1hLfxXfriuapAXNPLsmDm7cvjUWx18hJL/view?usp=drive_link
+AI Data Insights
+Project Link: https://data-insights-toolkit.streamlit.app/?
+Text Sentiment Analyzer 
+Project Link: https://sentimentanalyzeropenai.streamlit.app/
+Video Presentation: https://drive.google.com/file/d/1iBQZekVP0Ej46KQoCrwEu-zZWFPm6vR5/view?usp=drive_link
+TypeScript CLI Projects
+Project Link: https://github.com/Muhammadzainattiq/TypeScript-Projects-PIAIC	
+Video Presentation: https://drive.google.com/drive/folders/1dvHzg1gmTzFmfYH6qud_rJTfxCoehsDQ?usp=drive_link
+My Bank Typescript
+Project Link: https://github.com/Muhammadzainattiq/My-Bank-Project	
+Video Presentation: https://drive.google.com/file/d/1loy1MSmdgkW-gE8KfwSDnCwiYhuWwC1r/view?usp=drive_link
+Student Management System Typescript
+Project Link: https://github.com/Muhammadzainattiq/Student-Management-System-SMS-Project		
+Video Presentation: https://drive.google.com/file/d/1kYDFwT8SavMmMOK47vK9GTHqLyl11xSx/view?usp=drive_link
+Python Calculator
+		Project Link: https://github.com/Muhammadzainattiq/CODSOFT/tree/main/Calculator
+Python Todo list
+		Project Link: https://github.com/Muhammadzainattiq/CODSOFT/tree/main/Todo_list
+Python Random Password Generator
+Project Link: https://github.com/Muhammadzainattiq/CODSOFT/tree/main/Random%20Password%20Generator
+
+Experience:		1 year approx..
+	-Python Intern @ CodeSoft				Dec 2023-Jan 2024
+		Letter
+	-Machine Learning Intern @ Mentorness		Jan 2024-Feb2024
+		Letter
+	-AI Engineer Intern @InfoTech				April 2024-May2024
+		Letter
+	-Data Science Intern @CodeAlpha 			May 2024-Aug2024
+		Letter
+Faq:
+Q: Which apps he like the most?/Which are his favourite apps?
+A: 1_ChatGPT, 2_Youtube, 3_VSCode, 4_LinkedIN, 5_WhatsApp
+Q: How much marks he got in Matric?
+A: 1014/1100
+Q: How much marks he got in Inter/Fsc?
+A: 999/1100
+Q: Is zain like indoor games or outdoor games?
+A: Outdoor
+Q: Which youtube channel he likes the most?
+A: His choices change every now and then but he mostly like educational stuff.
+Q: Do Zain have any best friend?
+A: Zain has many friends, but there is no one best friend.
+Q: How much Zain earns?
+A: This is secret.
+Q: What is his salary?
+A: This is secret.
